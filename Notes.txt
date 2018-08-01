@@ -1,0 +1,45 @@
+https://github.com/khpeek/funda-scraper
+
+tab = suggesties
+shift tab = uitleg functie
+
+escape 1 = cel boven invoegen
+
+machine learning in pandas: http://scikit-learn.org/stable/
+bij kaggle ook voorbeeld notebooks met ook machine learning erin.
+
+____________________________________________
+
+https://github.com/atos-datascience/data-analytics-and-science
+
+GIT INSTELLEN
+https://www.atlassian.com/git/tutorials/what-is-git
+https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+
+Git is versie control beheer -
+code delen, geschiedenis terug zien, back-up
+Git = distributed management system - pool request (wijzigingen eerst beoordelen)
+GitHub = website boven op Git
+
+Git bash openen: Ga naar de map C:\Users\kimte\git. Dan de rechter muisknop en druk Git Bash Here. Hier kun je de code invoeren.
+
+Github key te vinden in: C:\Users\kimte\.ssh (pub file met kladbook openen - geheel = key)
+
+Repository map ingesteld op: C:\\Users\\kimte\\git
+
+____________________________________________
+
+Nieuwe package downloaden: 
+
+1 open anaconda navigator, in de anaconda prompt type: 
+	
+	conda install [package] 
+
+of als het niet werkt
+
+	conda install -c conda-forge [package]
+
+2 open anaconda zelf en ga naar environment en zoek handmatig het package.
+
+
+
